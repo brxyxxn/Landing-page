@@ -17,7 +17,7 @@
 }
 
 .logo-link {
-    display: block;
+    display: flex;
     width: 50px;
     height: 50px;
 }
@@ -26,8 +26,8 @@
     margin-left:-10rem;
     width: 20rem;
     height: 5rem;
-    display: block;
-    background-image: url(../img/Mangekyou_Sharingan_Kakashi.svg.png);
+    display: flex;
+    background-image: url(../img/neve.svg);
     background-size: contain;
     background-repeat: no-repeat
 }
