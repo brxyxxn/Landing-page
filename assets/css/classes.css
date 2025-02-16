@@ -3,8 +3,9 @@
     background-size: cover;
     background-position: center center;
     color:var(--white-color);
-    height: 700px;
+
 }
+
 
 .white-bg {
     background-color: var(--white-color);
@@ -14,8 +15,9 @@
 .main-content {
     max-width: 120rem;
     margin: 0 auto;
-    padding: var(--gap);
+    padding: 8rem var(--gap);
 }
+
 
 .section {
     min-height: 100vh;
@@ -23,4 +25,9 @@
 
 .menu-spacing {
     height: 65px;
+}
+
+body .full-width {
+    width: 100%;
+    flex: 1 1 100%;
 }
